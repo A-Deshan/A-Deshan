@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avishka Deshan</h1>
 <h3 align="center">Passionate IT Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-deshan&label=Profile%20views&color=0e75b6&style=flat" alt="a-deshan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=a-deshan&label=Profile%20views&color=0e75b6&style=flat" alt="a-deshan" /> </p>
 
 - 🌱 I’m currently learning **OOP with Java**
 
